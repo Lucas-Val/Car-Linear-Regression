@@ -14,7 +14,7 @@ plot(mtcars$hp, mtcars$mpg,
      pch = 19,
      col= "Black"
      )
-# now lets build a linear regression to determine if there is a relationship -
+# Building a linear regression to determine if there is a relationship -
 # between our dependent variable (mpg) vs our independent variable (hp)
 model <- lm(mpg ~ hp, data = mtcars)
 # lets view the model summary 
