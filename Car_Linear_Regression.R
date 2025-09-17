@@ -1,7 +1,3 @@
-# Simple Linear Regression Project in R
-# Dataset: mtcars (built-in)
-# Purpose: Predict miles per gallon (mpg) from horsepower (hp)
-
 # loading the data set 
 data(mtcars)
 # viewing the first rows of data 
