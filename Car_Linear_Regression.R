@@ -8,8 +8,7 @@ plot(mtcars$hp, mtcars$mpg,
      xlab = "Horsepower (hp)",
      ylab = "Miles Per Gallon (mpg)",
      pch = 19,
-     col= "Black"
-     )
+     col= "Black")
 # Building a linear regression to determine if there is a relationship -
 # between our dependent variable (mpg) vs our independent variable (hp)
 model <- lm(mpg ~ hp, data = mtcars)
