@@ -34,8 +34,7 @@ plot(model$residuals,
      ylab = " Residuals",
      xlab = "Index",
      pch = 19,
-     col = "red"
-     )
+     col = "red")
 abline(h = 0, lty =2)
 
 # Conclusion:
