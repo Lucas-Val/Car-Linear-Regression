@@ -20,8 +20,7 @@ plot(mtcars$hp, mtcars$mpg,
      xlab = "Horsepower (hp)",
      ylab = "Miles Per Gallon (mpg)",
      pch = 19,
-     col= "Black"
-     )
+     col= "Black")
 # Adding the regression line
 abline(model, col = "Red", lwd = 3)
 # lets predict the MPG for a new car with 150 hp 
