@@ -40,7 +40,7 @@ abline(h = 0, lty =2)
 # Conclusion:
 # This simple linear regression analysis used the built-in mtcars dataset
 # to predict Miles per Gallon (mpg) based on Horsepower (hp).
-# Key findings:
+# Key findings
 # - Regression equation: mpg = 30.10 - 0.068 * hp
 # - R-squared: 0.60 → Horsepower explains 60% of the variance in mpg
 # - P-value for hp: < 0.001 = Statistically significant
