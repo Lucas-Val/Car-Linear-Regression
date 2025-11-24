@@ -1,4 +1,4 @@
-# Car Linear Regression in R
+# Car Linear Regression
 This project performs a simple linear regression analysis using the built-in `mtcars` dataset in R. The goal is to predict a car’s fuel efficiency (measured in **miles per gallon**, `mpg`) based on its **horsepower** (`hp`).
 ## Project Summary
 - Dataset: `mtcars` (R built-in)
